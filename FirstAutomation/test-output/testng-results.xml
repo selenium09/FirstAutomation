@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="53471" started-at="2021-01-15T13:37:12Z" finished-at="2021-01-15T13:38:06Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="53471" started-at="2021-01-15T13:37:12Z" finished-at="2021-01-15T13:38:06Z">
+      <class name="com.WordPress.Testcases.VerifyValidLogin">
+        <test-method status="PASS" signature="checkValidUser()[pri:0, instance:com.WordPress.Testcases.VerifyValidLogin@7ca48474]" name="checkValidUser" duration-ms="53447" started-at="2021-01-15T19:07:12Z" finished-at="2021-01-15T19:08:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkValidUser -->
+      </class> <!-- com.WordPress.Testcases.VerifyValidLogin -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
